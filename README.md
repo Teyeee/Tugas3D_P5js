@@ -24,5 +24,5 @@
 |  |  |  |
 |--|--|--|
 |No| Tugas | Detail |
-| 1 | Media 3D pada P5js | UTS |
+| 1 | Media 3D pada P5js |  |
 
